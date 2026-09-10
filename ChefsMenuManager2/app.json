@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Restaurant Menu Manager",
+    "slug": "restaurant-menu-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.restaurantmenumanager.app"
+    }
+  }
+}
