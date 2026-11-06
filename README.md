@@ -1,6 +1,6 @@
 # ResturantMenuManager
 
-# Chef's Menu Manager — Part 3 (Final POE)
+# Chef's Menu Manager — Final POE
 
 A React Native (Expo) app that lets a chef add, edit, delete, search, filter and
 review statistics for menu items.
